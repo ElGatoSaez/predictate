@@ -1,0 +1,9 @@
+bin/
+lib/
+include/
+lib64/
+phpmyadmin/
+venv/
+pyvenv.cfg
+lib64
+upload/

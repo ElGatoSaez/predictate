@@ -1,0 +1,48 @@
+{
+  "award_name": "Gotham Awards",
+  "year": 2025,
+  "type": "nomination",
+  "categories": [
+    {
+      "name": "Best Picture",
+      "films": [
+        "Anora",
+        "Babygirl",
+        "Challengers",
+        "A Different Man",
+        "Nickel Boys"
+      ]
+    },
+    {
+      "name": "Best Documentary Feature Film",
+      "films": [
+        "Dahomey",
+        "Intercepted",
+        "No Other Land",
+        "Soundtrack to a Coup d'Etat",
+        "Sugarcane",
+        "Union"
+      ]
+    },
+    {
+      "name": "Best International Feature Film",
+      "films": [
+        "All We Imagine as Light",
+        "Green Border",
+        "Hard Truths",
+        "Inside the Yellow Cocoon Shell",
+        "Vermiglio"
+      ]
+    },
+    {
+      "name": "Best Director",
+      "nominees": [
+        { "person": "Payal Kapadia", "film": "All We Imagine as Light" },
+        { "person": "Sean Baker", "film": "Anora" },
+        { "person": "Guan Hu", "film": "Black Dog" },
+        { "person": "Jane Schoenbrun", "film": "I Saw the TV Glow" },
+        { "person": "RaMell Ross", "film": "Nickel Boys" }
+      ]
+    }
+  ]
+}
